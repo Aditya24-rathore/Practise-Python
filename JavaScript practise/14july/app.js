@@ -1,6 +1,6 @@
 // q1
 // ternary operator
-let age=parseInt(prompt("enter your age"))
+let age=parseInt(prompt("enter ur age"))
 let msg=(age>=18) ? "You are adult":"You are minor"
 alert(msg)
 
@@ -107,5 +107,6 @@ switch (day) {
         alert("Invalid day")
         break;
 }
+
 
 
