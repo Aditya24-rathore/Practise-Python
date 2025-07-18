@@ -3,5 +3,10 @@ function changeimg(){
 }
 
 function textchange(){
-    document.querySelector("#tc").style.display="none"
+    document.querySelector("#tc").style.opacity="0"
+}
+
+function textreturn(){
+   let a= document.querySelector("#tc")
+   a.style.opacity="1"
 }

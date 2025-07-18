@@ -5,12 +5,12 @@ function change1() {
 
 function change2() {
     let green=document.querySelector("#changeColor")
-    green.style.backgroundColor="Red"
+    green.style.backgroundImage="url(download (1).jpeg)"
 }
 
 function change3() {
     let green=document.querySelector("#changeColor")
-    green.style.backgroundColor="Blue"
+    green.style.backgroundImage="url(download.jpeg)"
 }
 
 function clickChange(){
